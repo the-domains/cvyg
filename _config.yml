@@ -1,0 +1,14 @@
+layout_spectrum: 0.01020408
+typography_spectrum: 0.3464017
+color:
+  saturation: 0.3991109
+  lightness: 0.06962017
+  brandStrength: 0.7986037
+  brandColors:
+    - '#172838'
+    - '#E0BF77'
+    - '#FCE892'
+    - '#050201'
+    - '#4B3903'
+  rhythmicContrast: 0.9376475
+name: CVYG
